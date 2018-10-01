@@ -8,6 +8,6 @@ eNXICbwtbxC4PLKFtdFtK0z93Rn5MaTnr0haAC3cVcoWtQ4XtDGV/r5JGLx+4SGyJe9F/L8oiuyYFkTj
 gBj16RC833lZrE8A2SJ84zl+G7sm1CSCDodXk9pEnOz8OexlY7+SuYtj5SjpS72LUzvAbQVtWM/BOmECLAzvxdx9rcWeumijkwngRwpwr3gIdFlBSmB/ZgHMQttc8Gh1gbzrYYJK+fukdQKbTpat2QieAJNDlWfJM5yXvrMZGU9+l
 c7jBN4BoBXdQ9xouV06H8qQpCE5HQ3vuzMRucDUOha3WnaX0fbA/1I6rVBkWTCiLtto4vn7VHE+opYyCIM7v0L6GlZQ2iu9fqoe+1xC2R3G99igZr4YERqkuQnaAkVdlHZxf1YeuqRzhjMbUj33AQHO+7MZEVYiXkN0RvS1GPzAZt
 iQ="
-  app: enigmatic-tundra-35643.herokuapp.com
+  app: enigmatic-tundra-35643
   on:
     repo: jbvance/node-shopping-list-integration-tests
